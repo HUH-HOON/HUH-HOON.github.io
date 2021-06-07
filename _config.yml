@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "공부하는 나"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Hoon"
 description              : "An amazing website."
 url                      : https://HUH-HOON.github.io
                            # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -95,10 +95,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I want to be the "Amazing" person."
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
@@ -115,7 +115,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/HUH-HOON"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
