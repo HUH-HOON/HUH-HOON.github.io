@@ -95,7 +95,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hoon"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I want to be the "Amazing" person."
   location         : "Seoul"
