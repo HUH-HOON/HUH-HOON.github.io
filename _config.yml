@@ -97,7 +97,7 @@ analytics:
 author:
   name             : # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I want to be the "Amazing" person."
+  bio              : "I want to be the 'Amazing' person."
   location         : "Seoul"
   email            :
   links:
